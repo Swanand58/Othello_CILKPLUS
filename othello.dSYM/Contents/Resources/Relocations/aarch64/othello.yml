@@ -1,0 +1,25 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/swanandkhonde/Documents/RiceUni/ParallelComputing/HW_Assignment_1/2024-comp-422-534-exploratory-search-Swanand58/othello'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9PrintDiskii, symObjAddr: 0x0, symBinAddr: 0x100003124, symSize: 0x50 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _start, symObjAddr: 0xCF8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: _offsets, symObjAddr: 0xD08, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xE7, offset: 0xE7, size: 0x8, addend: 0x0, symName: _noffsets, symObjAddr: 0xD48, symBinAddr: 0x100008050, symSize: 0x0 }
+  - { offsetInCU: 0xFC, offset: 0xFC, size: 0x8, addend: 0x0, symName: _diskcolor, symObjAddr: 0xD4C, symBinAddr: 0x100008054, symSize: 0x0 }
+  - { offsetInCU: 0x11D, offset: 0x11D, size: 0x8, addend: 0x0, symName: __Z19EnumerateLegalMoves5BoardiPS_, symObjAddr: 0x8AC, symBinAddr: 0x1000039D0, symSize: 0x1C4 }
+  - { offsetInCU: 0x146, offset: 0x146, size: 0x8, addend: 0x0, symName: __ZZ19EnumerateLegalMoves5BoardiPS_E14no_legal_moves, symObjAddr: 0x2998, symBinAddr: 0x100008058, symSize: 0x0 }
+  - { offsetInCU: 0x1F8, offset: 0x1F8, size: 0x8, addend: 0x0, symName: __Z9PrintDiskii, symObjAddr: 0x0, symBinAddr: 0x100003124, symSize: 0x50 }
+  - { offsetInCU: 0x22E, offset: 0x22E, size: 0x8, addend: 0x0, symName: __Z13PrintBoardRowiii, symObjAddr: 0x50, symBinAddr: 0x100003174, symSize: 0x6C }
+  - { offsetInCU: 0x272, offset: 0x272, size: 0x8, addend: 0x0, symName: __Z14PrintBoardRowsyyi, symObjAddr: 0xBC, symBinAddr: 0x1000031E0, symSize: 0x98 }
+  - { offsetInCU: 0x2B6, offset: 0x2B6, size: 0x8, addend: 0x0, symName: __Z10PrintBoard5Board, symObjAddr: 0x154, symBinAddr: 0x100003278, symSize: 0x3C }
+  - { offsetInCU: 0x2DE, offset: 0x2DE, size: 0x8, addend: 0x0, symName: __Z11PlaceOrFlip4MoveP5Boardi, symObjAddr: 0x190, symBinAddr: 0x1000032B4, symSize: 0x7C }
+  - { offsetInCU: 0x330, offset: 0x330, size: 0x8, addend: 0x0, symName: __Z8TryFlips4MoveS_P5Boardiii, symObjAddr: 0x20C, symBinAddr: 0x100003330, symSize: 0x1F4 }
+  - { offsetInCU: 0x3E8, offset: 0x3E8, size: 0x8, addend: 0x0, symName: __Z9FlipDisks4MoveP5Boardiii, symObjAddr: 0x400, symBinAddr: 0x100003524, symSize: 0xE8 }
+  - { offsetInCU: 0x484, offset: 0x484, size: 0x8, addend: 0x0, symName: __Z8ReadMoveiP5Board, symObjAddr: 0x4E8, symBinAddr: 0x10000360C, symSize: 0x20C }
+  - { offsetInCU: 0x4F3, offset: 0x4F3, size: 0x8, addend: 0x0, symName: __Z13NeighborMoves5Boardi, symObjAddr: 0x6F4, symBinAddr: 0x100003818, symSize: 0x1B8 }
+  - { offsetInCU: 0x573, offset: 0x573, size: 0x8, addend: 0x0, symName: __Z9HumanTurnP5Boardi, symObjAddr: 0xA70, symBinAddr: 0x100003B94, symSize: 0x7C }
+  - { offsetInCU: 0x5C9, offset: 0x5C9, size: 0x8, addend: 0x0, symName: __Z16CountBitsOnBoardP5Boardi, symObjAddr: 0xAEC, symBinAddr: 0x100003C10, symSize: 0x6C }
+  - { offsetInCU: 0x61F, offset: 0x61F, size: 0x8, addend: 0x0, symName: __Z7EndGame5Board, symObjAddr: 0xB58, symBinAddr: 0x100003C7C, symSize: 0xEC }
+  - { offsetInCU: 0x667, offset: 0x667, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC44, symBinAddr: 0x100003D68, symSize: 0xB0 }
+...
